@@ -1,25 +1,43 @@
 # Lucas de Jesus
 
 ## Sobre
-*Sou um profissional em transição para a área de tecnologia, com sólida experiência em resolução de problemas de clientes e negócios, além de contato próximo com sistemas integrados a bancos de dados e pontos de venda (PDV). 
+  Sou desenvolvedor com experiência em desenvolvimento web e backend. Trabalho com frameworks modernos como Next.js, Tailwind CSS, React, Bootstrap e TypeScript para a construção de aplicações frontend responsivas e performáticas.
 
- Durante minha trajetória, desenvolvi habilidades técnicas em desenvolvimento de sistemas e manipulação de dados. Tenho experiência prática em webscraping e transformação de dados utilizando Python, bem como na criação de chatbots e outras soluções orientadas à automação.
+  No backend, possuo experiência no desenvolvimento de APIs utilizando C# com .NET e ASP.NET, além de Java com Spring Boot. Tenho conhecimento em bancos de dados relacionais e não relacionais, como PostgreSQL, MongoDB e Firebase.
 
- Também já atuei na criação de sistemas de gerenciamento usando Java, o que me permitiu aprofundar conhecimentos em desenvolvimento de software. Possuo um entendimento inicial sobre Docker e conteinerização, o que amplia minha perspectiva de integração e portabilidade de sistemas. Estou em constante aprendizado e apaixonado pelo universo da tecnologia, sempre buscando novos desafios e formas de agregar valor com soluções inovadoras.*
+  Também atuo na automação de processos utilizando GitHub Actions.
 
+---
 
-## Habilidades
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-224?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-aaa?style=for-the-badge&logo=labelColor=&color=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+## 🚀 Tecnologias e Ferramentas
 
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Github Stats
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Automação
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasscidata&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-002?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-jesus-1503ba323/)
+---
+
+## 📲 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-jesus-1503ba323/)
