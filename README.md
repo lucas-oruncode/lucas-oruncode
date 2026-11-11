@@ -1,28 +1,29 @@
-# Lucas de Jesus  
-**Desenvolvedor Fullstack**
+# Lucas de Jesus
 
-Desenvolvedor Fullstack com foco em aplicações web e sistemas orientados a dados.  
-Atualmente atuo na Beyonders Digital Solutions, desenvolvendo e mantendo soluções escaláveis utilizando Laravel, Vue.js, Next.js e integrações com BigQuery e AWS.
+**Desenvolvedor de Software · Backend · Arquitetura · IA aplicada ao desenvolvimento**
 
-Tenho experiência com APIs, bancos de dados relacionais e não relacionais, aplicações frontend modernas e automação de processos. Background sólido em atendimento ao cliente, o que reforça minha comunicação, visão de produto e resolução de problemas.
+### Tecnologias
 
----
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 🛠️ Tecnologias
+Trabalho no desenvolvimento e na evolução de aplicações, com foco principal em backend e arquitetura, além de contribuir no frontend. Tenho interesse em entender como as partes de um sistema se conectam — das regras de negócio e APIs à experiência de quem usa o produto.
 
-**Frontend**  
-React · Next.js · Vue.js · Tailwind CSS · TypeScript  
+Utilizo e estudo Go, C#, TypeScript e Google Cloud. Também integro ferramentas de IA ao meu processo de desenvolvimento, buscando entender, revisar e validar as soluções.
 
-**Backend**  
-Laravel · Django · Spring Boot · .NET  
+## Em que estou me aprofundando
 
-**Banco de Dados**  
-PostgreSQL · MySQL · MongoDB · BigQuery  
+- Backend e arquitetura de software
+- Modelagem de domínio e APIs
+- Testes, qualidade e segurança de código
+- Desenvolvimento integrado a ferramentas de IA
 
-**Infra & DevOps**  
-Docker · Git · GitHub Actions · AWS  
+## Como gosto de trabalhar
 
----
+Valorizo educação, respeito e colaboração. Procuro ser fácil de trabalhar e estou aberto a feedbacks construtivos como parte do meu desenvolvimento pessoal e profissional.
 
-## 🔗 Contato
-[LinkedIn](https://www.linkedin.com/in/lucas-de-jesus-1503ba323/)  
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-jesus-1503ba323/)
